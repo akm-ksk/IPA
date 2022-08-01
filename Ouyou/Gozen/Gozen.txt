@@ -1,0 +1,46 @@
+8/1
+87.5% ×10
+
+H30S15
+https://www.ap-siken.com/kakomon/30_haru/q15.html
+フェールソフト
+
+H31S13
+https://www.ap-siken.com/kakomon/31_haru/q13.html
+直列の稼働率 = x * y
+並列の稼働率 = 1 - ( 1 - x ) * ( 1 - y )
+
+H30A16
+https://www.ap-siken.com/kakomon/30_aki/q16.html
+スケジューリング方式
+
+H29S13 問題文をよく読む
+https://www.ap-siken.com/kakomon/29_haru/q13.html
+CPU及び磁気ディスク装置は，ともに一つの要求だけを発生順に処理する。
+
+H31S26
+https://www.ap-siken.com/kakomon/31_haru/q26.html
+外部スキーマ = ビュー(データの見え方)
+概念スキーマ = 表の定義DB本体
+内部スキーマ = データを記憶装置上にどう記憶させるか
+サブスキーマ = 外部スキーマ別名
+
+H30A34
+https://www.ap-siken.com/kakomon/30_aki/q34.html
+IPの割り当て
+
+H31S32
+https://www.ap-siken.com/kakomon/31_haru/q32.html
+マルチホーミング
+
+H30A59
+https://www.ap-siken.com/kakomon/30_aki/q59.html
+ベネトレーションテスト
+
+H29A59
+https://www.ap-siken.com/kakomon/29_aki/q59.html
+移行判定フェーズで実施する監査手続
+
+R0A78
+https://www.ap-siken.com/kakomon/01_aki/q78.html
+著作権
