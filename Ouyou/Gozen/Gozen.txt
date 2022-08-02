@@ -1,5 +1,5 @@
 8/1
-87.5% ×10
+87.5% × 10
 
 H30S15
 https://www.ap-siken.com/kakomon/30_haru/q15.html
@@ -22,7 +22,7 @@ H31S26
 https://www.ap-siken.com/kakomon/31_haru/q26.html
 外部スキーマ = ビュー(データの見え方)
 概念スキーマ = 表の定義DB本体
-内部スキーマ = データを記憶装置上にどう記憶させるか
+内部スキーマ = データを記憶装置上にどう記憶させるか インデックスの定義など
 サブスキーマ = 外部スキーマ別名
 
 H30A34
@@ -44,3 +44,48 @@ https://www.ap-siken.com/kakomon/29_aki/q59.html
 R0A78
 https://www.ap-siken.com/kakomon/01_aki/q78.html
 著作権
+
+------------------------------------------------------------------------
+
+8/2
+88.8% × 9
+
+R3A1
+https://www.ap-siken.com/kakomon/03_aki/q1.html
+ニュートン法
+
+R4S24
+https://www.ap-siken.com/kakomon/04_haru/q24.html
+ユーザビリティ評価手法
+
+R4S27
+https://www.ap-siken.com/kakomon/04_haru/q27.html
+内部スキーマ
+
+H30S35
+https://www.ap-siken.com/kakomon/30_haru/q35.html
+ルート集約
+
+R4S33
+https://www.ap-siken.com/kakomon/04_haru/q33.html
+UDP User Datagram Protocol
+
+H31S40
+https://www.ap-siken.com/kakomon/31_haru/q40.html
+DNSSEC DNS Security Extensions
+
+R3A67
+https://www.ap-siken.com/kakomon/03_aki/q67.html
+バリューチェーン
+
+H30A73 計算間違え
+https://www.ap-siken.com/kakomon/30_aki/q73.html
+生産計画
+
+R4S76 計算式間違え
+https://www.ap-siken.com/kakomon/04_haru/q76.html
+見込み最大利益
+
+------------------------------------------------------------------------
+
+8/3
