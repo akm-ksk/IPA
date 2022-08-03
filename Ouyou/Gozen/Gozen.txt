@@ -89,3 +89,29 @@ https://www.ap-siken.com/kakomon/04_haru/q76.html
 ------------------------------------------------------------------------
 
 8/3
+92.5% × 6
+
+H31S13 計算漏れ C稼働率に変換忘れ
+https://www.ap-siken.com/kakomon/31_haru/q13.html
+稼働率
+
+H29S22
+https://www.ap-siken.com/kakomon/29_haru/q22.html
+クロックタイマー
+
+R3S34 紙に書いてちゃんとやりましょう
+https://www.ap-siken.com/kakomon/03_haru/q34.html
+ホストアドレス 論理演算
+
+R4S41 文章をちゃんと読む
+https://www.ap-siken.com/kakomon/04_haru/q41.html
+リバースプロキシサーバ
+
+H31S40 文章をちゃんと読んでたら明らかにおかしい
+https://www.ap-siken.com/kakomon/31_haru/q40.html
+
+R0A55
+https://www.ap-siken.com/kakomon/01_aki/q55.html
+サービス・パッケージ
+
+------------------------------------------------------------------------
