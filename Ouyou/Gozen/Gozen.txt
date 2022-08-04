@@ -115,3 +115,40 @@ https://www.ap-siken.com/kakomon/01_aki/q55.html
 サービス・パッケージ
 
 ------------------------------------------------------------------------
+
+8/3
+91.3% × 7
+
+R4S1
+https://www.ap-siken.com/kakomon/04_haru/q1.html
+不動小数点指数を揃える計算
+
+R4S5 問題文をよく読む
+https://www.ap-siken.com/kakomon/04_haru/q5.html
+「リストを配列で実現した場合の特徴」
+
+R4S29
+https://www.ap-siken.com/kakomon/04_haru/q29.html
+undo = ロールバック 更新前情報
+redo = ロールフォワード 更新後情報
+
+H29A34 押し間違え実質正解(たられば)
+https://www.ap-siken.com/kakomon/29_aki/q34.html
+
+R2A31
+https://www.ap-siken.com/kakomon/02_aki/q31.html
+PoE (Power over Ethernet)
+
+R0A37
+https://www.ap-siken.com/kakomon/01_aki/q37.html
+FWのNAPT
+
+R3A58
+https://www.ap-siken.com/kakomon/03_aki/q58.html
+アジャイルの監査
+
+------------------------------------------------------------------------
+
+8/3
+
+------------------------------------------------------------------------
