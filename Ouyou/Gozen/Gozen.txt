@@ -151,4 +151,56 @@ https://www.ap-siken.com/kakomon/03_aki/q58.html
 
 8/3
 
+85.0% × 12
+
+H30S15 逆で覚えてしまってる
+https://www.ap-siken.com/kakomon/30_haru/q15.html
+フェールソフト
+
+H29S16　逆で覚えてしまってる
+https://www.ap-siken.com/kakomon/29_haru/q16.html
+LRU
+
+H30S23
+https://www.ap-siken.com/kakomon/30_haru/q23.html
+1／2 ** 10 = 1024
+
+H29S25
+https://www.ap-siken.com/kakomon/29_haru/q25.html
+ディザリング
+
+R3A27
+https://www.ap-siken.com/kakomon/03_aki/q27.html
+媒体障害以外のハードウェア障害 = システム障害やトランザクション障害(除記憶媒体)
+
+R4S32
+https://www.ap-siken.com/kakomon/04_haru/q32.html
+PPPoE = LANをまとめてインターネットに接続する 2点間ではない
+
+H30A73
+https://www.ap-siken.com/kakomon/30_aki/q37.html
+楕円曲線暗号 = 公開鍵
+
+H30A36
+https://www.ap-siken.com/kakomon/30_aki/q36.html
+JPCERT/CC = 一般社団法人 日本国内セキュリティインシデントの、対応の支援、発生状況の把握、
+            手口の分析、再発防止対策の検討や助言
+NISC = 内閣官房に設置 官民における統一的、横断的な情報セキュリティ政策の推進
+
+R3S55
+https://www.ap-siken.com/kakomon/03_haru/q55.html
+組み合わせ計算
+
+H29A66 逆で覚えてしまってる
+https://www.ap-siken.com/kakomon/29_aki/q66.html
+ファブレス = 半導体などの設計開発 自社工場なし
+ファウンドリ = 自社工場での半導体などの製造
+
+R4S75
+https://www.ap-siken.com/kakomon/04_haru/q75.html
+PM理論 = 「目標達成能力(Performance function)」と「集団維持能力(Maintenance function)」
+          からのリーダのタイプを類型化
+SL理論 = リーダーシップは常に同じように発揮するのではなく、部下(集団)の状態によって
+         異なるアプローチをしたほうがより効果的という理論
+
 ------------------------------------------------------------------------
