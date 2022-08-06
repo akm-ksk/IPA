@@ -204,3 +204,31 @@ SL理論 = リーダーシップは常に同じように発揮するのではな
          異なるアプローチをしたほうがより効果的という理論
 
 ------------------------------------------------------------------------
+
+8/3
+91.3% × 7
+
+R3A16
+https://www.ap-siken.com/kakomon/03_aki/q16.html
+スラッシング
+
+R4S34
+https://www.ap-siken.com/kakomon/04_haru/q34.html
+接続可能なホストの最大数
+
+H30S54 計算間違え
+https://www.ap-siken.com/kakomon/30_haru/q54.html
+
+H30S52
+https://www.ap-siken.com/kakomon/30_haru/q52.html
+コストの見積もり
+
+H30A67
+https://www.ap-siken.com/kakomon/30_aki/q67.html
+SCM
+
+H29A76
+https://www.ap-siken.com/kakomon/29_aki/q76.html
+散布図
+
+------------------------------------------------------------------------
