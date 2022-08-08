@@ -116,7 +116,7 @@ https://www.ap-siken.com/kakomon/01_aki/q55.html
 
 ------------------------------------------------------------------------
 
-8/3
+8/4
 91.3% × 7
 
 R4S1
@@ -149,7 +149,7 @@ https://www.ap-siken.com/kakomon/03_aki/q58.html
 
 ------------------------------------------------------------------------
 
-8/3
+8/5
 
 85.0% × 12
 
@@ -205,7 +205,7 @@ SL理論 = リーダーシップは常に同じように発揮するのではな
 
 ------------------------------------------------------------------------
 
-8/3
+8/6
 91.3% × 7
 
 R3A16
@@ -230,5 +230,114 @@ SCM
 H29A76
 https://www.ap-siken.com/kakomon/29_aki/q76.html
 散布図
+
+------------------------------------------------------------------------
+
+8/7 心の乱れ
+
+81.3% × 15
+
+R3S1
+https://www.ap-siken.com/kakomon/03_haru/q1.html
+
+R4S8
+https://www.ap-siken.com/kakomon/04_haru/q8.html
+VLIW = 複数の処理を1つの非常に長い命令にまとめて並列実行する高速化技法
+
+H29A12 仮想マシン環境
+https://www.ap-siken.com/kakomon/29_aki/q12.html
+ハイパバイザ = ハードウェア上で直接稼働し仮想マシンの土台となるミドルウェア
+
+H29S13
+https://www.ap-siken.com/kakomon/29_haru/q13.html
+CPU及び磁気ディスク装置は，ともに一つの要求だけを発生順に処理する。
+
+H30S22 16進数変換
+https://www.ap-siken.com/kakomon/30_haru/q22.html
+
+H29S32
+https://www.ap-siken.com/kakomon/29_haru/q32.html
+ICMP = パケットを対象ノードに送信しケットが返ってくるか否かで、
+       対象ノードおよび到達するまでのネットワーク間が正常であるかを診断する
+
+R033 逆で覚えてる
+https://www.ap-siken.com/kakomon/01_aki/q33.html
+ARP = IP から MAC
+RARP = MAC から IP
+
+H2939
+https://www.ap-siken.com/kakomon/29_haru/q39.html
+サイバーセキュリティ経営ガイドライン =
+経営者が認識する必要のある「3原則」、及び経営者が情報セキュリティ対策を実施する上での
+責任者となる担当幹部（CISO等）に指示すべき「重要10項目」をまとめたものです。
+
+H29A38
+https://www.ap-siken.com/kakomon/29_aki/q38.html
+SIEM = サーバやネットワーク機器のログを収集分析し，不審なアクセスを検知する
+
+R3S49
+https://www.ap-siken.com/kakomon/03_haru/q49.html
+プロダクトオーナ(スクラム) = 開発への投資に対する効果を最大にすることの責任者
+
+H31S51
+https://www.ap-siken.com/kakomon/31_haru/q51.html
+実行のプロセス群
+
+R3S52
+https://www.ap-siken.com/kakomon/03_haru/q52.html
+RACIチャート = Responsible : 実行責任
+              Accountable : 説明責任
+              Consulted : 相談対応
+              Informed : 報告先、情報提供
+
+R4S70 逆で覚えてる
+https://www.ap-siken.com/kakomon/04_haru/q70.html
+ファウンドリ = 生産設備を保有し、他社から半導体の生産を受託する会社
+ファブレス = 生産工場を所有せずに製造業としての活動を行う会社
+
+------------------------------------------------------------------------
+
+8/8
+
+88.8 × 9
+
+R2A13
+https://www.ap-siken.com/kakomon/02_aki/q13.html
+サーバコンソリデーション = 仮想化ソフトウェアを利用して元のサーバ数よりも少なくし
+                       サーバ機器の管理コストを削減する。
+
+R3A17
+https://www.ap-siken.com/kakomon/03_aki/q17.html
+1マイクロ = 10 ** -6 秒 0.000001
+
+H30S52
+https://www.ap-siken.com/kakomon/30_haru/q25.html
+サーフェスモデル = 物体を，ポリゴンや曲面パッチを用いて表現
+ワイヤフレームモデル = 物体を，頂点と頂点をつなぐ線で結び、針金で構成されているように表現
+ソリッドモデル= 物体を，中身の詰まった固形物として表現
+
+R0A33 😇
+https://www.ap-siken.com/kakomon/01_aki/q33.html
+ARP = IP → MAC
+RARP = MAC → IP
+
+R4S34　落ち着きましょう
+https://www.ap-siken.com/kakomon/04_haru/q34.html
+0000 , 1111　を忘れてた
+
+H30S46
+https://www.ap-siken.com/kakomon/30_haru/q46.html
+ソフトウェア方式設計プロセス = 要求事項を実装し，それに対して検証できる
+                          ソフトウェアの設計を提供する
+
+H30S54 😇
+https://www.ap-siken.com/kakomon/30_haru/q54.html
+
+H30S57
+https://www.ap-siken.com/kakomon/30_haru/q57.html
+
+R2A61
+https://www.ap-siken.com/kakomon/02_aki/q61.html
+ROI = Return on Investment 投資利益率
 
 ------------------------------------------------------------------------
