@@ -341,3 +341,45 @@ https://www.ap-siken.com/kakomon/02_aki/q61.html
 ROI = Return on Investment 投資利益率
 
 ------------------------------------------------------------------------
+
+8/9
+
+88.8 × 9
+
+R3S5
+https://www.ap-siken.com/kakomon/03_haru/q2.html
+桁落ち = 値のほぼ等しい二つの数値の差を求めたとき，有効桁数が減る誤差
+情報落ち = 絶対値の非常に大きな数値と小さな数値の加算や減算を行ったとき，
+          小さい数値が計算結果に反映されない誤差
+
+R4S9
+https://www.ap-siken.com/kakomon/04_haru/q9.html
+
+R0A25 押し間違え
+https://www.ap-siken.com/kakomon/01_aki/q25.html
+
+R4S27
+https://www.ap-siken.com/kakomon/04_haru/q27.html
+内部スキーマ設計に含まれるもの = インデックスの定義
+
+H31S51
+https://www.ap-siken.com/kakomon/31_haru/q51.html
+実行のプロセス群
+
+H30A56
+https://www.ap-siken.com/kakomon/30_aki/q56.html
+サービスレベル管理プロセス
+
+H30A58
+https://www.ap-siken.com/kakomon/30_aki/q58.html
+サンプリング(監査)
+
+H31S63
+https://www.ap-siken.com/kakomon/31_haru/q63.html
+データサイエンス力 = 分析対象及び目的に適した分析手法を選択できる能力
+
+H29S71
+https://www.ap-siken.com/kakomon/29_haru/q71.html
+エスクローサービス = 決済を仲介し，落札者から送金を受け，商品の受渡し完了後に出品者へ送金
+
+------------------------------------------------------------------------
