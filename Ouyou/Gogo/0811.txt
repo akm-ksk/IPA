@@ -12,5 +12,15 @@ p248
    (2) ×
 3. ×
 
-
 ------------------------------------------------------------------------
+
+p526
+
+アルゴ
+
+1. (1) MemoArray[0].height ○
+   (2) 30 ○
+2. ア = MemoArray[index] ○ , イ = memoArrayCount ×
+3. ウ = node.nextNode ← node.prevNode × , エ = node.prevNode ← tailNode ○
+4. (1) オ = O(n) ○ , カ = O(1) ○
+   (2) デスクトップに配置できる最大数分最初に確保 ○
