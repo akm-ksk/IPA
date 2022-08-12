@@ -450,3 +450,34 @@ https://www.ap-siken.com/kakomon/30_aki/q66.html
 準委任契約 = 用件定義と運用テストが適切　仕事の実施自体を目的とする契約
 
 ------------------------------------------------------------------------
+
+8/12
+
+92.5% × 6
+
+R2A11
+https://www.ap-siken.com/kakomon/02_aki/q11.html
+アクティブシャッタ方式
+
+R3A23
+https://www.ap-siken.com/kakomon/03_aki/q23.html
+7 → 0
+
+H29S27
+https://www.ap-siken.com/kakomon/29_haru/q27.html
+正規系
+
+R0A57
+https://www.ap-siken.com/kakomon/01_aki/q57.html
+インシデント管理及びサービス要求管理 = 利用者からの障害報告を受けて，既知の誤りに該当するかどうかを照合する。
+
+H31S54
+https://www.ap-siken.com/kakomon/31_haru/q54.html
+問題管理プロセス = インシデントの発生後に未知の根本原因を特定し，恒久的な解決策を策定
+
+R0A75
+https://www.ap-siken.com/kakomon/01_aki/q75.html
+ワークサンプリング
+
+
+------------------------------------------------------------------------
