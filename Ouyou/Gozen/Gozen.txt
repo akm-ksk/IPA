@@ -495,3 +495,29 @@ https://www.ap-siken.com/kakomon/02_aki/q45.html
 IMAPS
 
 ------------------------------------------------------------------------
+
+8/14
+
+93.8% × 5
+
+R2A1 押し間違え
+https://www.ap-siken.com/kakomon/02_aki/q1.html
+
+R0A11
+https://www.ap-siken.com/kakomon/01_aki/q11.html
+DisplayPort
+
+R4S36
+https://www.ap-siken.com/kakomon/04_haru/q36.html
+SAML (Security Assertion Markup Language) =
+複数のシステムやサービスの間で認証情報、属性情報、権限の認可情報を交換するための仕様
+
+H30A56
+https://www.ap-siken.com/kakomon/30_aki/q56.html
+SLA
+
+R3A56
+https://www.ap-siken.com/kakomon/03_aki/q56.html
+最低人数計算
+
+------------------------------------------------------------------------
