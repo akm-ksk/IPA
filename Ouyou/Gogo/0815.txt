@@ -1,3 +1,4 @@
+p264
 
 ネットワーク
 
@@ -9,3 +10,15 @@
 5. エ OPB25 × は宛先ポート番号
 
 ------------------------------------------------------------------------
+
+p538
+
+アルゴリズム
+
+1. ア = rowspan="4" ○ , イ = colspan="2" ○
+2. ウ = CSVArray.size - 1, ○
+   エ = keyとCSVArray[i].todofukenが違うなら, ○
+   オ = key ← CSVArray[i].todofuken ×
+3. カ = shitenArray.size - 1 ○ , キ = shitenArray.size × 小計分がいる + 1
+4. (1) メモリ ○
+   (2) tdタグのrowspan属性に支店数と同じ数字を指定する必要があるため ○
