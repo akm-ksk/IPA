@@ -534,9 +534,49 @@ https://www.ap-siken.com/kakomon/04_haru/q21.html
 
 H30A32
 https://www.ap-siken.com/kakomon/30_aki/q32.html
-ブリッジ
 
 R2A38
 https://www.ap-siken.com/kakomon/02_aki/q38.html
+
+------------------------------------------------------------------------
+
+8/16
+
+91.3% × 7
+
+H30S16 難しく考えすぎ
+https://www.ap-siken.com/kakomon/30_haru/q16.html
+稼働率
+
+S3S29
+https://www.ap-siken.com/kakomon/03_haru/q29.html
+DB
+
+R3S28
+https://www.ap-siken.com/kakomon/03_haru/q28.html
+グラフ指向DB = ノード，リレーション，プロパティで構成され、
+             ノード間をリレーションでつないで構造化する。
+             ノード及びリレーションはプロパティをもつ。
+
+R2A32 片道！
+https://www.ap-siken.com/kakomon/02_aki/q32.html
+
+H29S72
+https://www.ap-siken.com/kakomon/29_haru/q72.html
+行動ターゲティング = 検索履歴，アクセスしたページや購買履歴から
+                  利用者の興味・関心を解析しWebサイトに表示する
+地域ターゲティング = GPS機能を使い，利用者の現在地に合わせて、
+                  近隣の広告をWebサイトに表示する
+
+H31S67
+https://www.ap-siken.com/kakomon/31_haru/q67.html
+コアコンピタンス = 長年の企業活動により蓄積された他社と差別化できる、
+                または競争力の中核となる企業独自のノウハウや技術
+
+R3A79
+https://www.ap-siken.com/kakomon/03_aki/q79.html
+オプトイン = 事前に同意を得た相手だけにメールを送信する
+オプトアウト = メールの送信は原則自由で、受け取りたくない受信者は個別に受信拒否通知を行う
+
 
 ------------------------------------------------------------------------
