@@ -583,3 +583,74 @@ https://www.ap-siken.com/kakomon/03_aki/q79.html
 オプトアウト = メールの送信は原則自由で、受け取りたくない受信者は個別に受信拒否通知を行う
 
 ------------------------------------------------------------------------
+
+8/17
+
+91.3% × 7
+
+R3S1
+https://www.ap-siken.com/kakomon/03_haru/q1.html
+排他的論理和の相補演算 = NOT 排他的論理和
+
+R3A30
+https://www.ap-siken.com/kakomon/03_aki/q30.html
+複製に対する透過性 = 同一のデータが複数のサイトに格納されていても、利用者はそれを意識せずに利用できる
+
+H30S30
+https://www.ap-siken.com/kakomon/30_haru/q30.html
+キー・バリュー = 1つのキーに1つの値を結びつけてデータを格納する
+カラム指向 = 行キーに対してカラムを結びつけて格納する(名前と値の組み合わせ)
+ドキュメント指向 = XMLやJSONなどの構造でデータを格納する
+グラフ指向 = グラフ理論に基づいてデータ間の関係性を表現する
+
+R4S45
+https://www.ap-siken.com/kakomon/04_haru/q34.html
+10の組み合わせの数からブロードキャストを抜いた数
+
+R3S34
+https://www.ap-siken.com/kakomon/03_haru/q34.html
+サブネットマスクの反転から論理和
+
+R2A42 文章をよく読みましょう
+https://www.ap-siken.com/kakomon/02_aki/q42.html
+
+------------------------------------------------------------------------
+
+8/18
+
+90.0% × 8
+
+H30A5
+https://www.ap-siken.com/kakomon/30_aki/q5.html
+ハフマン方式 = 発生確率が分かっている記号群を符号化したとき，
+             1記号当たりの平均符号長が最小になるように割り当てる(文字のやつ)
+
+H30S6
+https://www.ap-siken.com/kakomon/30_haru/q6.html
+線形探索法平均比較回数 = ( N ＋ 1 ) / 2 回
+
+R4S19 文章をちゃんと読む
+https://www.ap-siken.com/kakomon/04_haru/q19.html
+
+R2A25 単位をちゃんと見る
+https://www.ap-siken.com/kakomon/02_aki/q25.html
+
+R3A35
+https://www.ap-siken.com/kakomon/03_aki/q35.html
+サブネットマスクの反転から論理和
+
+H30S31 単位をちゃんと見る
+https://www.ap-siken.com/kakomon/30_haru/q31.html
+
+R3S49
+https://www.ap-siken.com/kakomon/03_haru/q49.html
+プロダクトオーナ = ゴールとミッションが達成できるように
+                プロダクトバックログのアイテムの優先順位を決定する
+
+R0A51
+https://www.ap-siken.com/kakomon/01_aki/q51.html
+PMO = プロジェクトに関連するガバナンス・プロセスを標準化し，
+      資源，方法論，ツール及び技法の共有を促進する
+
+
+------------------------------------------------------------------------
