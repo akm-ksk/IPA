@@ -716,3 +716,23 @@ https://www.ap-siken.com/kakomon/29_aki/q75.html
 
 ------------------------------------------------------------------------
 
+8/21
+
+95.0% × 4
+
+R4S9 最初の考え方であってた
+https://www.ap-siken.com/kakomon/04_haru/q9.html
+
+R3A27 消去法自分を信じる
+https://www.ap-siken.com/kakomon/03_aki/q27.html
+
+R3S34
+https://www.ap-siken.com/kakomon/03_haru/q34.html
+論理和 = OR , 論理積 = AND
+
+H31S54
+https://www.ap-siken.com/kakomon/31_haru/q54.html
+問題管理プロセス = インシデントや障害発生の根本原因を突き止め
+                インシデントの再発防止のための恒久的な解決策を提示する
+
+------------------------------------------------------------------------
