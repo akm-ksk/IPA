@@ -736,3 +736,37 @@ https://www.ap-siken.com/kakomon/31_haru/q54.html
                 インシデントの再発防止のための恒久的な解決策を提示する
 
 ------------------------------------------------------------------------
+
+8/21
+
+91.3% × 7
+
+H30S35 自信を持て
+https://www.ap-siken.com/kakomon/30_haru/q35.html
+
+R2A37 自信を持て
+https://www.ap-siken.com/kakomon/02_aki/q37.html
+IPsec
+
+H29S37 自信を持て
+https://www.ap-siken.com/kakomon/29_haru/q37.html
+
+R3A47
+https://www.ap-siken.com/kakomon/03_aki/q47.html
+アクティビティ図 = 制御の流れを表現する(時系列は関係ない)
+ユースケース図 = システムとそれを利用する人や外部システムとの関係
+
+R0A48
+https://www.ap-siken.com/kakomon/01_aki/q48.html
+インスペクション = 事前に役割を決められた参加者が成果物を確認するレビュー技法
+                成果物の問題発見を行う
+
+R4S53
+https://www.ap-siken.com/kakomon/04_haru/q53.html
+マニュアルの制作は製造,テスト作業と同時に行える
+
+R3A70
+https://www.ap-siken.com/kakomon/03_aki/q70.html
+SFA = 営業活動にITを活用して営業の効率と品質を高め，売上・利益の大幅な増加や，顧客満足度の向上を目指す
+
+------------------------------------------------------------------------
