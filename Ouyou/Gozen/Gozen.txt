@@ -770,3 +770,26 @@ https://www.ap-siken.com/kakomon/03_aki/q70.html
 SFA = 営業活動にITを活用して営業の効率と品質を高め，売上・利益の大幅な増加や，顧客満足度の向上を目指す
 
 ------------------------------------------------------------------------
+
+8/22 メンタル管理
+
+93.8% × 5
+
+H29A7 押し間違え
+https://www.ap-siken.com/kakomon/29_aki/q7.html
+
+H30A18
+https://www.ap-siken.com/kakomon/30_aki/q18.html
+
+R2A16 押し間違え
+https://www.ap-siken.com/kakomon/02_aki/q16.html
+
+H30S46
+https://www.ap-siken.com/kakomon/30_haru/q46.html
+ソフトウェア方式設計プロセス = 要求事項を実装し，それに対して検証できるソフトウェアの設計を提供する
+
+H30A55
+https://www.ap-siken.com/kakomon/30_aki/q55.html
+サービスストラテジ→サービスデザイン→サービストランジション→サービスオペレーション
+
+------------------------------------------------------------------------
