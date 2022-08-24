@@ -793,3 +793,30 @@ https://www.ap-siken.com/kakomon/30_aki/q55.html
 サービスストラテジ→サービスデザイン→サービストランジション→サービスオペレーション
 
 ------------------------------------------------------------------------
+
+8/22
+
+93.8% × 5
+
+H30A18
+https://www.ap-siken.com/kakomon/30_aki/q18.html
+( ページイン * P ) * (ページアウト，ページインの合計処理 * ( 1 - P)) = 平均
+
+H30S25
+https://www.ap-siken.com/kakomon/30_haru/q25.html
+サーフェスモデル = 物体を，ポリゴンや曲面パッチを用いて表現する
+
+H29S32
+https://www.ap-siken.com/kakomon/29_haru/q32.html
+ICMP = 通信状態の確認をするために使われる Ping監視
+
+R3A54
+https://www.ap-siken.com/kakomon/03_aki/q54.html
+問題管理の活動 = 問題を特定するために，インシデントのデータ及び傾向を分析する
+
+R4S63
+https://www.ap-siken.com/kakomon/04_haru/q63.html
+BPO(Business Process Outsourcing) = コアビジネスでない事業に関わる業務の一部又は全部を，
+                                    外部の専門的な企業に委託する
+
+------------------------------------------------------------------------
