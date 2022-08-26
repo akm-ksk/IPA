@@ -823,7 +823,7 @@ BPO(Business Process Outsourcing) = コアビジネスでない事業に関わ�
 
 8/25
 
-96.3
+96.3 × 3
 
 H30A31 Bit Byte 変換忘れ
 https://www.ap-siken.com/kakomon/30_aki/q31.html
@@ -834,5 +834,26 @@ https://www.ap-siken.com/kakomon/31_haru/q13.html
 R4S11
 https://www.ap-siken.com/kakomon/04_haru/q11.html
 RAIDに関係なく1台はパリティ専用
+
+------------------------------------------------------------------------
+
+8/26
+
+95.0 × 4
+
+H30A59
+https://www.ap-siken.com/kakomon/30_aki/q59.html
+ペネトレーションテスト = ネットワークへのアクセスコントロールのテスト
+
+R3A70
+https://www.ap-siken.com/kakomon/03_aki/q70.html
+SFA(Sales Force Automation) = 営業活動にITを活用して営業の効率と品質を高め，
+                              売上・利益の大幅な増加や、顧客満足度の向上を目指す手法・概念
+
+H29A70 計算間違え
+https://www.ap-siken.com/kakomon/29_aki/q70.html
+
+R4S76 計算間違え
+https://www.ap-siken.com/kakomon/04_haru/q76.html
 
 ------------------------------------------------------------------------
