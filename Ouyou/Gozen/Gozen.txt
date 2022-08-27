@@ -857,3 +857,27 @@ R4S76 計算間違え
 https://www.ap-siken.com/kakomon/04_haru/q76.html
 
 ------------------------------------------------------------------------
+
+8/27
+
+93.8% × 5
+
+R4S9 普通に計算したらいい
+https://www.ap-siken.com/kakomon/04_haru/q9.html
+
+H30A12 たまにごちゃごちゃになる
+https://www.ap-siken.com/kakomon/30_aki/q12.html
+ライブマイグレーション = OSやソフトウェアを停止することなく，他の物理サーバへ移し替える
+リソースオンデマンド = リソースを動的に割り当てたり，不要になったリソースを回収
+
+R3A50
+https://www.ap-siken.com/kakomon/03_aki/q50.html
+スクラムマスタ = スクラム全体をうまく回すことに責任を持つ。
+
+H29A75 真の確率も計算に入れる
+https://www.ap-siken.com/kakomon/29_aki/q75.html
+
+R4S76 変動比率じゃなくて変動費 * 個数
+https://www.ap-siken.com/kakomon/04_haru/q76.html
+
+------------------------------------------------------------------------
