@@ -1,0 +1,9 @@
+R3A プログラミング
+
+1. ア = 0 ○
+   イ = ×  edgenext[temp]
+   ウ = ×  top - 1
+   エ = start[temp] ○
+2. 15 ×
+3. ア ○
+4. topがlast以下 ○
